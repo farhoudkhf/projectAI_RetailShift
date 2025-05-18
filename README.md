@@ -1,6 +1,6 @@
 # Rota Optimizer Demo
 ## About
-This project presents a demonstration of a Rota Balancer system. Designed to optimize workforce allocation, this tool dynamically manages daily and hourly staff coverage, intelligently realigning break times for workers to balance workload based on hourly trade demands and other operational factors.
+This project presents a demonstration of a Rota Optimizer system. Designed to optimize workforce allocation, this tool dynamically manages daily and hourly staff coverage, intelligently realigning break times for workers to balance workload based on hourly trade demands and other operational factors.
 
 ## Features
 * **Daily/Hourly Cover Management:** Helps ensure adequate staffing levels throughout the day and specific hours.
