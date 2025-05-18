@@ -1,4 +1,4 @@
-# Rota Balancer Demo
+# Rota Optimizer Demo
 ## About
 This project presents a demonstration of a Rota Balancer system. Designed to optimize workforce allocation, this tool dynamically manages daily and hourly staff coverage, intelligently realigning break times for workers to balance workload based on hourly trade demands and other operational factors.
 
@@ -34,4 +34,4 @@ cd project_AI_Rota_Balancer_RetailUseCase_js
 While this is a demo project, contributions, feedback, and suggestions are welcome! If you have ideas for improvements or find any issues, please feel free to open an issue or submit a pull request.
 
 #### License
-This project is open-source.
+This project is open-source. This is a snippet of a large-scale, work-related project from 2019.
